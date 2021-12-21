@@ -1,4 +1,6 @@
 # devops-netology
 
 test1
-add fix branch
+add fix branch 
+
+work with pycharm
